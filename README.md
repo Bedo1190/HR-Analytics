@@ -18,7 +18,7 @@ I utilized the **Local Outlier Factor (LOF)** algorithm to identify multidimensi
 **Key Findings:**
 * **Behavioral Outliers:** Identified employees like *Jenna Dietrich* (Score: 2.17) who had standard salaries but abnormally high absences (17 days) given their role.
 * **Structural Outliers:** Identified *Janet King* (CEO) as a mathematical outlier due to her salary ($250k), which is expected but distant from the population distribution.
-
+<img width="610" height="179" alt="Ekran Resmi 2025-12-06 16 50 54" src="https://github.com/user-attachments/assets/af43f501-cede-451a-8b37-b03c58375a7c" />
 <img width="2184" height="1350" alt="LOF" src="https://github.com/user-attachments/assets/ed1b1e23-959f-414f-992a-8055d6fa4087" />
 
 ---
